@@ -1,0 +1,19 @@
+<!---comentários--->
+# sobre mim **Roberta**
+# *Eduarda* 
+<!---especial repositorio do github--->
+- 👋 - **olá, eu sou @dud1nha1510**
+- :+1:O meu [e.mail](roberta.pagini.freitas@escola.pr.gov.br).
+- :+1: eu estou interessada em aprender novas linguagens de programação 
+- :+1: I'm 
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+dud1nha1510/dud1nha1510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
