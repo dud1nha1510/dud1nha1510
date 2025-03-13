@@ -1,4 +1,5 @@
 <!---comentários--->
+![](https://i.pinimg.com/originals/6a/dc/53/6adc538d6545951941bc2717eba3be2a.gif)
 # sobre mim **Roberta**
 # *Eduarda* 
 <!---especial repositorio do github--->
